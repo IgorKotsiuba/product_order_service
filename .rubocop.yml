@@ -36,3 +36,6 @@ Style/BlockDelimiters:
   Enabled: false
   Exclude:
     - '**/*_spec.rb'
+
+Lint/AmbiguousBlockAssociation:
+  Enabled: false
